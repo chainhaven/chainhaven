@@ -1,12 +1,13 @@
 # Chain Haven
 
-Building secure Web3 systems, smart contracts, and onchain tools.
+Building secure Web3 systems across Solana, Base, and onchain applications.
 
-I am focused on learning, building, and shipping useful products in the Web3 ecosystem. My work centers around smart contracts, blockchain infrastructure, wallet experiences, DeFi tooling, and security-minded onchain applications.
+I am focused on building and shipping useful products in the Web3 ecosystem. My work centers around Solana programs, Base smart contracts, blockchain infrastructure, wallet experiences, DeFi tooling, and security-minded onchain applications.
 
 ## Focus
 
 - Smart contract development
+- Solana and Base ecosystem development
 - Web3 frontend integration
 - Onchain data and automation
 - DeFi protocols and tooling
@@ -14,11 +15,12 @@ I am focused on learning, building, and shipping useful products in the Web3 eco
 
 ## Current Direction
 
-I am building a strong foundation in Web3 by combining practical engineering, protocol research, and real project execution. The goal is simple: create trustworthy onchain tools that help people interact with crypto systems more safely and effectively.
+I am building across Solana and Base by combining practical engineering, protocol research, and real project execution. The goal is simple: create trustworthy onchain tools that help people interact with crypto systems more safely and effectively.
 
 ## Tech Stack
 
 - Solidity
+- Rust / Anchor
 - JavaScript / TypeScript
 - React / Next.js
 - Node.js
@@ -37,4 +39,3 @@ I am building a strong foundation in Web3 by combining practical engineering, pr
 
 - Email: chainhavenlabs@gmail.com
 - GitHub: https://github.com/chainhaven
-
